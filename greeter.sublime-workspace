@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ot",
+				"otherStuff"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: Ins",
+		"selected_items":
+		[
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nrsuresh/workspace/gitworkspace/greeter"
+	],
+	"file_history":
+	[
+		"/Users/nrsuresh/Downloads/RandomWords.java",
+		"/Users/nrsuresh/Downloads/Lesson3.java",
+		"/Users/nrsuresh/Downloads/SonnetI.txt",
+		"/Users/nrsuresh/Downloads/my_expressvpn_usa_-_los_angeles_-_2_udp.ovpn",
+		"/Users/nrsuresh/workspace/dockerworkspace/docker-spark/spark-docker-compose/zeppelin/data/will_play_text.json",
+		"/Users/nrsuresh/softwares/spark-2.2.0-bin-hadoop2.7/conf/spark-env.sh.template",
+		"/Users/nrsuresh/workspace/sparkworkspace/data/shakespeare/names.json",
+		"/Users/nrsuresh/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/nrsuresh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/nrsuresh/workspace/sparkworkspace/data/shakespeare/will_play_text.json",
+		"/Users/nrsuresh/Downloads/Lesson1.java",
+		"/Users/nrsuresh/IdeaProjects/flink-kafka/target/flink-kafka-1.0-SNAPSHOT/META-INF/MANIFEST.MF",
+		"/Users/nrsuresh/workspace/reactworkspace/babel-basic/dist/script.js",
+		"/Users/nrsuresh/Downloads/my_expressvpn_usa_-_washington_dc_udp.ovpn",
+		"/Users/nrsuresh/Downloads/my_expressvpn_usa_-_dallas_udp.ovpn",
+		"/Users/nrsuresh/openvpn/myroutervpn/myvpnclientconfig/client1.ovpn",
+		"/Users/nrsuresh/openvpn/myroutervpn/myvpnclientconfig/client1.crt",
+		"/Users/nrsuresh/openvpn/myroutervpn/myvpnclientconfig/client1.key",
+		"/Users/nrsuresh/openvpn/myroutervpn/easy-rsa/pki/ca.crt",
+		"/Users/nrsuresh/openvpn/EasyRSA-3.0.1/openssl-1.0.cnf",
+		"/Users/nrsuresh/Downloads/my_expressvpn_usa_-_dallas_-_2_udp.ovpn",
+		"/Users/nrsuresh/Downloads/nonwindows/client.key",
+		"/Users/nrsuresh/Downloads/nonwindows/client.crt",
+		"/Users/nrsuresh/Downloads/nonwindows/ca.crt",
+		"/Users/nrsuresh/Downloads/nonwindows/client2.conf",
+		"/Volumes/mycloud-1/owncloud/data/.ocdata",
+		"/Volumes/mycloud-1/aquota.user",
+		"/Volumes/mycloud-1/aquota.group"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "greeter.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
